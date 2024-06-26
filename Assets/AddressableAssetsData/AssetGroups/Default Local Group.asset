@@ -20,12 +20,14 @@ MonoBehaviour:
   - m_GUID: 01fc091150af558458bb7f1f31102f0f
     m_Address: Image
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - PP
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 019f8b7fa2f743e4fa971e303fb29616
     m_Address: Blue
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - PP
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bfd043116bcaaee44bd6127b818e0aad
     m_Address: Yellow
@@ -36,6 +38,18 @@ MonoBehaviour:
     m_Address: Red
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71e60aeb766e662469e0550ef9bc4f0b
+    m_Address: hh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HH
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2766cda7af613b4ab215f85301d2b9e
+    m_Address: DD
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HH
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: e43a31c868ccd9744b599f88de21e5f1, type: 2}
